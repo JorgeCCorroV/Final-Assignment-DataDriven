@@ -1,5 +1,5 @@
-Joaquin Tejo
-Jorge Corro
+Joaquin Tejo/
+Jorge Corro/
 DDB Assignment IV
 
 Using the provided financial phrasebank dataset, we preprocessed the sentences to create a corpus of text that could be used for training machine learning models. We vectorized the text data to generate numeric feature representations suitable for classification.
