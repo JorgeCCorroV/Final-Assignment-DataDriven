@@ -10,4 +10,3 @@ We evaluated the models by comparing their accuracy scores and confusion matrice
 Additionally, we fine-tuned a pretrained FinBERT NLP model on the same data. FinBERT outperformed Logistic Regression, with more balanced precision and recall across classes, especially for the neutral sentiment category.
 
 To demonstrate real-world application, we built a Streamlit application that analyzes sentiment of financial news headlines from Yahoo Finance using our FinBERT model. The model shows strong performance, indicating the potential value of fine-tuned language models for financial sentiment analysis.
-![image](https://github.com/Zerojoaco/Final-Assignment-DataDriven/assets/149313003/886272c5-c6de-4a23-9292-04c3e28407ff)
