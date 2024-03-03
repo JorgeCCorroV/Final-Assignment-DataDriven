@@ -1,5 +1,7 @@
 streamlit
-transformers
+pipeline
+AutoModelForSequenceClassification
+AutoTokenizer
 nltk
 stopwords
 word_tokenize
