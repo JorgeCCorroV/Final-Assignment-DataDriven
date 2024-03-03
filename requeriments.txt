@@ -1,12 +1,5 @@
 streamlit
 transformers
-pipeline
-AutoModelForSequenceClassification
-AutoTokenizer
 nltk
-stopwords
-word_tokenize
-WordNetLemmatizer
-string
 requests
-BeautifulSoup
+beautifulsoup4
